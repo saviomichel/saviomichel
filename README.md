@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s%C3%A1vio-michel/)](https://www.linkedin.com/in/s%C3%A1vio-michel/)
 
-### Welcome to my profile!
+### Welcome to my profile! :smile:
 
   - 📚 I’m currently studying Data Science
   - 📫 How to reach me: s-m95@live.com
