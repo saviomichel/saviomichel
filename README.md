@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### Welcome to my profile! :smile:
 
-  - 📚 I’m currently studying Data Science and Petroleum Engineering
+  - 📚 I’m currently studying Business Intelligence, Data Science and Petroleum Engineering
   - 📫 How to reach me: s-m95@live.com
   
